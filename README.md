@@ -1,12 +1,12 @@
-<!-- Olá mensagem de apresentação com animação -->
+<!-- Não precisa agradecer-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo;Meu+nome+é;Eduarda&center=true&width=380&height=45">
 </p>
 
 
-<!-- Foto -->
+<!-- tmj -->
 <p align="center">
-  <img src="[https://img.icons8.com/?size=100&id=OekWdZr7M4hU&format=png&color=000000]"  alt="" height="200"/>
+  <img src="git.png"  alt="" height="200"/>
 </p>
 
 <H3> SOBRE MIM </H3>
