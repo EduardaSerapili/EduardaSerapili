@@ -1,8 +1,7 @@
 <!-- Não precisa agradecer-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo;Meu+nome+é;Eduarda&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo;Meu+nome+é;Eduarda&center=true&width=380&height=45&color=FF69B4">
 </p>
-
 
 <!-- tmj -->
 <p align="center">
