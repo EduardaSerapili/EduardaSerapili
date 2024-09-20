@@ -6,7 +6,7 @@
 
 <!-- Foto -->
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=OekWdZr7M4hU&format=png&color=000000"  alt="" height="200"/>
+  <img src="[https://img.icons8.com/?size=100&id=OekWdZr7M4hU&format=png&color=000000](https://img.icons8.com/?size=100&id=118553&format=png&color=000000)"  alt="" height="200"/>
 </p>
 
 <H3> SOBRE MIM </H3>
