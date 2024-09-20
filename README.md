@@ -6,7 +6,7 @@
 
 <!-- tmj -->
 <p align="center">
-  <img src="git.png"  alt="" height="200"/>
+  <img src="git-200.png"  alt="" height="200"/>
 </p>
 
 <H3> SOBRE MIM </H3>
