@@ -27,6 +27,6 @@ Recentemente, estou me aprofundando em PHP e Python, e pretendo começar a inclu
 <!-- Ícones de linguagens -->
 <h2 align="center">Linguagens que eu aprendi</h2>
 <p align="center">
-  <img src="[html5.png](https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000)"/> 
-  <img src="[[css3.png](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)](https://icons8.com.br/icon/7gdY5qNXaKC0/css3)"/>
+  <img src="html.png"/> 
+  <img src="css.png"/>
 </p>
